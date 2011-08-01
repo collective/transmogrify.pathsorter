@@ -1,7 +1,7 @@
 Introduction
 ============
 
-If items are at the same level in a folder then they will be sorted based on a
+If items are at the same level in a folder then they will be sorted based on a _path and then
 '_sortorder' key as given by transmogrify.webcrawler.
 
 In addition
