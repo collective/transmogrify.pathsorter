@@ -1,8 +1,8 @@
 Introduction
 ============
 
-If items are at the same level in a folder then they will be sorted based on a _path and then
-'_sortorder' key as given by transmogrify.webcrawler.
+If items are at the same level in a folder then they will be sorted based on a _path and then an optional
+'_sortorder' key. For example transmogrify.webcrawler gives each item a _siteorder based on when it first discovered that link so links at the top of a page will therefore be resorted to before links first discovered at the bottom of a page if they are in the same folder.
 
 In addition
 
